@@ -1,6 +1,6 @@
 # 🔐 VAPTIFY – Automated VA Scanning Tool
 
-This is a Vulnerability Assessment (VA) automation tool designed for security testers to reduce manual work.
+VAPTIFY is a Vulnerability Assessment (VA) automation tool designed for security testers to minimize manual work and streamline vulnerability scanning.
 
 It performs **essential security checks**, displays **live results with clear visibility**, and produces a **final vulnerability summary** — without saving any scan data locally. If you find any false positives or have ideas to improve the tool, please push a commit. We will review it and proceed accordingly.
 
