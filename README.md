@@ -44,6 +44,7 @@ python3 vaptify_va1.py -d domain.com
 ---
 
 🚀 Usage
+
 ▶ Scan a Single Domain
 
 ```
