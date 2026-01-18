@@ -35,7 +35,7 @@ It performs **essential security checks**, displays **live results with clear vi
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/prithivilakshmanan/vaptify_automation.git
-cd vaptify
+cd vaptify_automation
 chmod +x install.sh
 sudo ./install.sh
 python3 vaptify_va1.py -d domain.com
