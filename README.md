@@ -38,7 +38,7 @@ git clone https://github.com/prithivilakshmanan/vaptify_automation.git
 cd vaptify
 chmod +x install.sh
 sudo ./install.sh
-python3 vaptify.py -d example.com
+python3 vaptify_va1.py -d example.com
 ```
 
 ---
