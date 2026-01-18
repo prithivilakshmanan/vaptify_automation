@@ -1,0 +1,4 @@
+# VAPTIFY uses only Python standard libraries.
+# No external Python packages are required.
+
+python>=3.8
