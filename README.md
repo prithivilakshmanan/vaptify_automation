@@ -1,4 +1,4 @@
-# 🔐 VAPTIFY – Automated VA Reporting Tool
+# 🔐 VAPTIFY – Automated VA Scanning Tool
 
 This is a Vulnerability Assessment (VA) automation tool designed for security testers to reduce manual work.
 
